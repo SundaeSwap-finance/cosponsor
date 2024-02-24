@@ -11,6 +11,6 @@ When the proposal expires, the deposit goes back to the reward account. From the
 
 Users can burn *any* of the temporary tokens to withdraw from the done state, so you don't have to worry about where the rewards came from.
 
-![](./docs/yieldless-flow.png)
+![](./images/yieldless-flow.png)
 
 Note: this doesn't currently handle yield, but we could mint some kind of "yield" token that was able to claim a portion of the staking rewards earned by the funds while they waited for cosponsorship and create a sort of proto-treasury.
